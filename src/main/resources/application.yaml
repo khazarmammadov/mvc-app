@@ -5,3 +5,4 @@ spring:
   datasource:
     url:
     password:
+    driver-class-name: oracle.jdbc.driver.OracleDriver
